@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Posts</string>
+
+
+    <!-- Posts Activity -->
+    <string name="posts_title">Posts</string>
+    <string name="posts_error_401">Não autorizado</string>
+    <string name="posts__error_400_generic">Erro não tradado</string>
+    <string name="posts__error_500_generic">Erro catastrófico</string>
+
+    <!-- Posts Details Activity -->
+    <string name="posts__details_title">Posts Details</string>
+    <string name="posts__details_title_label">Title</string>
+    <string name="posts__details_body_label">Body</string>
+
+</resources>
